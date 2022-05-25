@@ -1,2 +1,2 @@
-# MLOpsHW1
-MLOps first assignment
+# MLOpsHW
+MLOps assignments
